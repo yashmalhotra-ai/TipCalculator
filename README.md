@@ -1,5 +1,5 @@
 # TipCalculator
-Simple Tip Calculator To understand the Basics of Javascrip Dom
+Simple Tip Calculator To understand the Basics of Javascript Dom
 
 We have 3 function here 
 1) calculateBill() => This Calculates the Bill Per Person that have to pay we can add this feature to in resturant Bill Payments where mostly student/Bachelor use method Divide and pay 
